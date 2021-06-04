@@ -1,0 +1,8 @@
+{
+    "USUARIO":"postgres",
+    "PASSWORD":"franzo1821",
+    "BD_NAME":"proyectoPrueba",
+    "SECRET_KEY":"django-insecure-$4+38r=a9)t(dmxu@k%uy!h@b89gr&qs+h2jmpux#cit&=%i@+",
+    "FILENAME": "connection.json"
+
+}
